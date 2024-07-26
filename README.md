@@ -1,8 +1,10 @@
-
 Step 1: Create a new folder named CoffeShop in your desktop.
+
 Step 2: open that folder in Visual Studio Code.
+
 Step 3: Open the terminal and create a virtual environment using 
 virtualenve venv
+
 Step 4: Creating virtual environment is followed by 
 activating environment. We use ‘venv\Scripts\activate’. 
 Step 5: Install Django using ‘pip install Django’. 
