@@ -20,7 +20,7 @@ Step 13: Go to Coffee folder and open urls.py files link with base file.
 Step 14: Now go to setting.py of Coffee folder there is a thing we to edit it.In 
 INSTALLED_APPS write ‘base’,.TEMPLATES write Base_DIR/’templates’
 Step 15: Open terminal to run server manage.py ‘python manage.py runserver’. 
-Open link http://127.0.0.1:8000/home/. 
+
 
 
 
